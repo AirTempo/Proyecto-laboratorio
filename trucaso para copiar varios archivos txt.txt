@@ -1,0 +1,4 @@
+-crea un nuevo documento no importa el nombre
+- Lo abres y escribes copy *txt Nombrearchivo.extencion(txt o xls,doc)
+lo guardas denuevo y le cambias la extencion txt a bat
+-lo ejecutas y te crea el nuevo archivo con la extencion que elejiste y dentro esta todo los txt copiados
